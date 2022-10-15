@@ -1,2 +1,2 @@
 # TrainingScripts
-Scripts that uses internal and external variables
+Scripts that uses internal and external variables.
